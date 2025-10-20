@@ -1,5 +1,8 @@
 # Sui Journal App Workshop
 
+deployed packageID: `0x712cb3641813e9ef2fa735af51b4b119d0df509028ff25816b5f788a1bb2e009`
+
+
 Learn Sui blockchain development by building a decentralized journal application. This hands-on workshop starts with deploying a simple counter contract to practice the fundamentals, then guides you through building a complete journal dApp with progressive feature additions.
 
 ## Workshop Overview
